@@ -90,14 +90,7 @@ vaibhavdhyani09@github:~$ cat stats.md
 ```
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavdhyani09&show_icons=true&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavdhyani09&layout=compact&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff" height="165"/>
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vaibhavdhyani09&theme=terminal&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=ff6b35&currStreakLabel=00FF41" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavdhyani09" />
 </div>
 
 ---
@@ -106,7 +99,3 @@ vaibhavdhyani09@github:~$ cat stats.md
 vaibhavdhyani09@github:~$ exit
 # connection closed.
 ```
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavdhyani09&color=00ff41&style=flat-square&label=PROFILE+VIEWS" />
-</div>
