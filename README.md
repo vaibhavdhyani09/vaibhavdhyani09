@@ -83,17 +83,6 @@ done
 # [*] Web3 & Solidity — writing contracts that don't get rekt
 ```
 
----
-
-```bash
-vaibhavdhyani09@github:~$ cat stats.md
-```
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavdhyani09" />
-</div>
-
----
 
 ```bash
 vaibhavdhyani09@github:~$ exit
